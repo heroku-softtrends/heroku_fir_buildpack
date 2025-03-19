@@ -4,7 +4,7 @@ api = "0.10"
 id = "heroku/dotnet"
 version = "0.3.4"
 name = "Heroku .NET"
-homepage = "https://github.com/heroku/buildpacks-dotnet"
+homepage = "https://github.com/heroku-softtrends/buildpacks-dotnet"
 description = "Heroku's buildpack for .NET applications."
 keywords = ["dotnet", ".NET", "heroku"]
 
